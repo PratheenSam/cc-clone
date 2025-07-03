@@ -18,3 +18,4 @@ greenlet==2.0.2
 SQLAlchemy==2.0.19
 pip install pytest pytest-cov  # For testing
 pip install flask-debugtoolbar # Debugging
+pip3.12 install --disable-pip-version-check --target . --upgrade -r
